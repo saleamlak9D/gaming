@@ -1,0 +1,6 @@
+{
+  "name": "Snake",
+  "description": "A classic snake game based on the provided web code",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
